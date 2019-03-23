@@ -1,4 +1,4 @@
-package co.aplicared.jvm.utils
+package com.github.TheBornTurtle.RedUtils
 
 /**
  * The `Language` type defines a programming language with a name and hotness score.

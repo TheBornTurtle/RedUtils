@@ -1,4 +1,4 @@
-package co.aplicared.jvm.utils
+package com.github.TheBornTurtle.RedUtils
 
 /**
  *  The `Log` class adds logging features to applications.
